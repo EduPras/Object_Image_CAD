@@ -1,6 +1,8 @@
 # Object_Image_CAD [Still in progress]
 Script that finds the control points of the object presented in a image.
 
+The main goal is to get the specific control points to be able to controlling them, therefore changing the object's shape.
+
 Follow the images with the results so far:
 
 ![image](https://user-images.githubusercontent.com/52408546/212760620-8f70aa38-130d-4296-abe1-3584a344c184.png)
