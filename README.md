@@ -1,4 +1,4 @@
-# Object_Image_CAD [Still in progress]
+# Object_Image_CAD
 Script that finds the control points of the object presented in a image.
 
 The main goal is to get the specific control points to be able to controlling them and apply them spline interpolation, therefore changing the object's shape.
